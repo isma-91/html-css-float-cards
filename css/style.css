@@ -40,11 +40,18 @@ img {
   box-shadow: 1px 1px 10px 5px #888888;
 }
 
+.name {
+  font-weight: 700;
+}
+
 a {
   text-decoration: none;
   color: #34ccf2;
 }
 
+.info {
+  padding-top: 10px;
+}
 /* .profile::after {
   content: "";
   display: table;

@@ -52,8 +52,9 @@ a {
 .info {
   padding-top: 10px;
 }
-/* .profile::after {
+
+.container::after {
   content: "";
   display: table;
   clear: both;
-} */
+}
